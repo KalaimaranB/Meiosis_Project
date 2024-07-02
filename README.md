@@ -1,4 +1,4 @@
-# Humanitarian Helicopter Simulation
+# Meiosis Simulation
 
 This project is a simulation developed in Unity/C# that demonstrates biological processes related to meiosis. Users can observe the stages of meiosis and related events.
 
